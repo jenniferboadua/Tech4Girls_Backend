@@ -1,0 +1,1 @@
+differences between root directory and home directory
