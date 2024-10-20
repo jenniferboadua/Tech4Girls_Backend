@@ -1,0 +1,4 @@
+A bash script is a file thaat contains series of commands in the bash. It is used for automation of task and can be executed to achieve a desired results.
+create a file ie  touch filename(bash_script.sh)
+#!/bin/bash ;this looks for bash within the bin
+#comment ;write a comment in the script
