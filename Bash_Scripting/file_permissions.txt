@@ -1,0 +1,4 @@
+ -rw-r--r-- 1 userhacsa userhacsa 70 Oct 14 10:00 script.sh
+ -rw is the permission given to the user; - represents the user, rw means the user can only view and modify the file(script.sh). the user has read, write permissions but no execute permission.
+ -r-- is the permission of the group; the group can only read but not write and excute the file.
+ -r-- is the permission given to others; they can only read but not execute or write in the file.
