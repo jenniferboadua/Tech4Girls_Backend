@@ -1,0 +1,8 @@
+Steps to open the python interpreter:
+sudo apt install python3
+to check the version, python3 --version
+to triger interractive python, run python3
+this prompt will pop up;
+>>>
+adding two number;x=5+6
+                print(x)
