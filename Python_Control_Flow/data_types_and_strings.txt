@@ -1,0 +1,23 @@
+int refers to numerical data in whole number. Eg x=4
+float refers to numerical data in decimals. Eg x=5.97
+str contains alphabetical characters. Eg ('Adwoa', 'Abena', 'Akua') 
+list refers to a sequential data in a list format. Eg ['Gina', 'Precious', 'Miriam']
+tuple is similar to list but in parenthesis. it cannot be changed or modified. Eg (5,6,9,4,1)
+set contains values that are unordered and have no duplicates. Eg {7,5,0,3,1}
+
+
+ii. story = 'The return of Okomfo Anokye'
+print(story.upper())
+print(story.lower())
+print(story.replace('Okomfo Anokye','Yaa Asantewaa'))
+for spliting; words=story.split
+              print(words)
+ 
+ name='cat'
+ verb='is'
+ noun='an animal'
+ full sentence= f'{name}{verb}{noun}
+ print(full sentence)
+ print(f'{name}{verb}{noun}')
+
+ print(story.find('Okomfo'))
