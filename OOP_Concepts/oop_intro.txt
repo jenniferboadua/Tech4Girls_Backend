@@ -1,0 +1,21 @@
+Object Oriented Programming is a programming paradigm that resolves around the concepts of objects and classes.
+
+Encapsulation involves the idea of bundling data and methods that operate on that data within a singleunit called a class.
+
+Abstraction invoves the concept of showing only the necessary information to the outside world while hiding theimplementation details,
+
+Inheritance involves the mechanism by which one class can inherit the properties and behaviour of another class.
+
+Polymorphism invoves the ability of an object to take on multiple forms, depending on the context in which it is used.
+
+
+Benefits of OOP in software development 
+..Reusability: Code can be reused through inheritance , hence teams do not have to write same codes multiple times.
+..Maintenance: Modifying or extending existing codes is easier with OOp.
+..Flexibility: Polymorphism allows a single function to adapt the class it is placed in.
+
+
+Real-world Examples
+..Cars are broke down in subclasses like "sports car" and "v8 sports car" to add more features without identifying all of them at the same time.
+..Water can exist in three state as liquid, solid and gas based on temperature.
+..Building web applications with user accounts, shopping carts and payment processing.
